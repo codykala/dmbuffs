@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: DMBuffs
+## Author: Me
+## Notes: Auto Invite and Summon
+## Version: 1.0
+
+DMBuffs.lua
