@@ -4,4 +4,5 @@
 ## Notes: Auto Invite and Summon
 ## Version: 1.0
 
+Utils\Queue.lua
 DMBuffs.lua
